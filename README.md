@@ -1,6 +1,6 @@
 # ESP32_wifi_connection
 this code will work with ESP32 to enable the user to enter a router's name and password for the esp32 to connect to the internet. 
-instructions:
+after downloading the esp32 microcontroller library and autoconnect library for the arduino IDE, upload the code to the esp32 and follow the instructions:
 
 1- connect to the esp32 wifi with the default password:12345678
 

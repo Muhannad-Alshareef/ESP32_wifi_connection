@@ -117,7 +117,7 @@ void rootPage() {
 }
 
 void startPage() {
-  // Retrieve the value of AutoConnectElement with arg function of WebServer class.
+  // Retrieve the value of AutoConnectElement with arg function  of WebServer class.
   // Values are accessible with the element name.
   String  tz = Server.arg("timezone");
 
